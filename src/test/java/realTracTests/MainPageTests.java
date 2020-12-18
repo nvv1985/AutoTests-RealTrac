@@ -21,7 +21,7 @@ import io.qameta.allure.Story;
 public class MainPageTests extends BaseClass {
 	private MainPageLoc mp;
 	private AllureListener al;
-	//test
+
 	@BeforeClass 
 	public void setUp() {
 		BaseClass bs= new BaseClass();
