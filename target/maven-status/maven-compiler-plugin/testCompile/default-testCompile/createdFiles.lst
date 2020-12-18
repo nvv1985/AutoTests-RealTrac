@@ -1,0 +1,6 @@
+Locators\ReportsPageLoc.class
+Methods\BaseClass.class
+Locators\MainPageLoc.class
+realTracTests\ReportsPageTests.class
+realTracTests\MainPageTests.class
+realTracTests\AllureListener.class
